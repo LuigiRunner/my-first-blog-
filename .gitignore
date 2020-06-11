@@ -4,6 +4,10 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
+db.sqlite3
+mysite/__pycache__/__init__.cpython-37.pyc
+mysite/__pycache__/settings.cpython-37.pyc
+mysite/__pycache__/urls.cpython-37.pyc
 
 
 *.log

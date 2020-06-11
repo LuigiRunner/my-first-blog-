@@ -4,8 +4,16 @@ myvenv
 db.sqlite3
 /static
 .DS_Store
-*/*/*/__pycache__/
 
-*/*/__pycache__/
 
-*/__pycache__/
+    *.log
+
+    *.pot
+
+    *.pyc
+
+    */*/*/__pycache__/
+
+    */*/__pycache__/
+
+    */__pycache__/

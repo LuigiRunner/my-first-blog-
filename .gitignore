@@ -1,5 +1,6 @@
 *.pyc
-blog/__pycache__/
+
+mysite/__pycache__/urls.cpython-37.pyc
 blog/
 myvenv
 db.sqlite3
